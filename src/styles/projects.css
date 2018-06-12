@@ -22,13 +22,13 @@
 
 .project-title {
   font-size: 140%;
-  padding: 0 0 10px 0;
+  /* padding: 0 0 10px 0; */
 }
 
 .project-tech {
   font-style: italic;
   font-size: 90%;
-  padding: 0 0 5px 0;
+  padding: 0 0 10px 0;
 }
 
 .project-desc {
