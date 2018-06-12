@@ -109,10 +109,4 @@ export const intro = `
    I am a front end developer in training. My background is in databases as a developer with sql server. This is my portfolio which will contain the projects 
    I have worked on at Bov Academy as well as other projects I have done in my spare time. When I'm not heads down in code
    I enjoy going for bike rides, working out, and going on road trips. I also really love the NBA and I'm a fan of everything basketball.
-</p>
-<br>
-<p>
-  This is my new portfolio page and uses more modern technologies and methods I've been working with such as webpack, es6, and template strings. 
-  Most of the data on the page is fed through the templates I've made. I hope you enjoy looking through the projects I've made.
-</p>`
-;
+</p>`;
