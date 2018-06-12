@@ -1,0 +1,32 @@
+.nav {
+  background-color: #1C58A1;
+  height: 0;
+  overflow: hidden;
+  transition: .2s ease-in;
+}
+
+.nav.open {
+  height: 190px;
+}
+
+.nav__item {
+  color: #0CBCB3;
+  font-weight: 700;
+  cursor: pointer;
+  padding: 5px 8px;
+  font-size: 170%;
+  list-style-type: none;
+}
+
+.nav__item:hover {
+  color: #ffffff;
+}
+
+.nav__item:first-child {
+  margin-top: 50px;
+}
+
+.name {
+  text-align: center;
+  padding: 10px;
+}

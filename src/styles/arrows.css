@@ -1,0 +1,7 @@
+.arrows {
+  display: flex;
+  position: absolute;
+  width: 100%;
+  justify-content: space-between;
+  top: 50%;
+}

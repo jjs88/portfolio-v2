@@ -1,0 +1,11 @@
+.menu-icons {
+  color: #0CBCB3;
+  font-size: 150%;
+  padding: 10px;
+  position: absolute;
+  top: 6px;
+}
+
+.menu-icons:hover {
+  cursor: pointer;
+}
